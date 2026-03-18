@@ -1,5 +1,7 @@
 @media screen and (max-width: 430px) {
-  .all {
-    margin-left: -400px;
+  body{
+ margin: 10px 20px;
+
+
   }
 }
