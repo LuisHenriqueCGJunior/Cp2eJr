@@ -20,7 +20,7 @@
  }
 .hystory {
   display: grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: 1.3fr auto;
   grid-template-rows: 0.3fr 0.3fr 0.3fr;
   grid-template-areas:
     "name  ."
@@ -35,7 +35,7 @@
 
 .hystory .hsytoryspan {
   grid-area: name;
-  font-size: 14px;
+  font-size: 11px;
   margin:  18px 14px;
   align-self: start;
   
@@ -80,7 +80,8 @@ padding: 12px 5px;
 justify-content: space-between;
 }
 
-.iconcalendar{
+.iconone{
+  display: flex;
 padding:5px;
 
 }

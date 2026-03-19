@@ -280,7 +280,13 @@ h1 {
   font-weight: 600;
 }
 
+.detail,
 .fontrasation{
 display: none;
 }
 
+.iconone{
+
+display: none !important;
+
+}
